@@ -32,11 +32,13 @@ source:
     description: Visa Portal
     url: http://incancanada.ca/
     name: In Can Canada Visa
+    liveurl: http://incancanada.ca/
 
   - icon: fa fa-github
     description: Tax Solutions
     url: http://jandmtaxsolutions.now.sh/
     name: Tax Solutions
+    liveurl: http://jandmtaxsolutions.now.sh/
 
   - icon: fa fa-github
     description: Project Management API 
