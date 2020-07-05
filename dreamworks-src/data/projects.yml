@@ -29,6 +29,16 @@ source:
     liveurl: http://www.bhuvaneshwariamman.ca/
   
   - icon: fa fa-github
+    description: Visa Portal
+    url: http://incancanada.ca/
+    name: In Can Canada Visa
+
+  - icon: fa fa-github
+    description: Tax Solutions
+    url: http://jandmtaxsolutions.now.sh/
+    name: Tax Solutions
+
+  - icon: fa fa-github
     description: Project Management API 
     url: https://github.com/athishsreeram/project-management
     name: Project Management
