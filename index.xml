@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>Creating a New Theme</title>
+      <title>Docker</title>
       <link>https://athishsreeram.github.io/dreamworks/blog/creating-a-new-theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
@@ -36,10 +36,8 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
       <guid>https://athishsreeram.github.io/dreamworks/resume/</guid>
-      <description>Athishsreeram Nharayanan Education  2006-2010 (expected) Bachelor of Computer Science; Anna University Chennai (MyTown) 2007-2010 MBA, Human Resource Management; Anna University Chennai (HomeTown)   Experience Your Most Recent Work Experience:
-Short text containing the type of work done, results obtained, lessons learned and other remarks. Can also include lists and links:
- First item
- Item with link. Links will work both in the html and pdf versions.</description>
+      <description>Athishsreeram Nharayanan Senior Software Engineer with 10+ Years of Professional Experience. Specialized with Backend Distributed Systems, Cloud &amp;amp; Microservices Architecture.
+LANGUAGES AND TECHNOLGIES  Java, Go (Golang), PL/SQL, Typescript, JavaScript, Shell Script, PHP Spring Framework, Angular, Node.js, Hibernate, JPA, JSF Enterprise Architecture, Cloud Computing, Microservice, Data Mining, Business Intelligence Git, Docker, Kubernetes, Istio, Consul, Jira, Confluence, Prometheus, RabbitMQ, NATS UML Argo, Erwin Designer, Microsoft Visio Ant, Maven, Hudson, Sonar, Jenkins, Bamboo, Docker, Ansible  Experience BMO FINANCIAL GROUP, Toronto, ON</description>
     </item>
     
     <item>

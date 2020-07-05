@@ -1,8 +1,8 @@
 ---
-author: "Michael Henderson"
+author: "Athishsreeram Nharayanan"
 date: 2014-09-28
-linktitle: Creating a New Theme
-title: Creating a New Theme
+linktitle: Docker
+title: Docker
 highlight: true
 ---
 
@@ -915,7 +915,7 @@ $ cat public/index.html
 <!DOCTYPE html>
 <html>
 <body>
-    <h1><a href="http://localhost:1313/post/theme/">creating a new theme</a></h1>
+    <h1><a href="http://localhost:1313/post/theme/">Docker</a></h1>
     <h1><a href="http://localhost:1313/about-time/">about</a></h1>
     <h1><a href="http://localhost:1313/post/second-post/">second</a></h1>
     <h1><a href="http://localhost:1313/post/first-post/">first</a></h1>
