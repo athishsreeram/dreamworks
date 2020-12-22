@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Dreamworks</title>
-    <link>http://examplesite.org/tags/</link>
+    <link>https://athishsreeram.github.io/dreamworks/tags/</link>
     <description>Recent content in Tags on Dreamworks</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://examplesite.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://athishsreeram.github.io/dreamworks/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
