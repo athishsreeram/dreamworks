@@ -1,28 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on Dreamworks</title>
-    <link>https://athishsreeram.github.io/dreamworks/blog/</link>
-    <description>Recent content in Blogs on Dreamworks</description>
+    <title>Our Projects on Dreamworks</title>
+    <link>http://examplesite.org/blog/</link>
+    <description>Recent content in Our Projects on Dreamworks</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://athishsreeram.github.io/dreamworks/blog/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Apr 2020 10:07:21 +0600</lastBuildDate><atom:link href="http://examplesite.org/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Spring Flavours</title>
-      <link>https://athishsreeram.github.io/dreamworks/blog/spring-flavours/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <title>InCanCanada on online Platform for Visa and Immigration portal</title>
+      <link>http://examplesite.org/blog/post-1/</link>
+      <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
       
-      <guid>https://athishsreeram.github.io/dreamworks/blog/spring-flavours/</guid>
-      <description>Employee SBA App Consul 2.X https://github.com/athishsreeram/employee/blob/employee-consul/README.md
-Consul 1.X https://github.com/athishsreeram/employee/blob/employee-consul-SB1.5.10/README.md
-Dockerized https://github.com/athishsreeram/employee/blob/employee-docker/README.md
-GraphQL https://github.com/athishsreeram/employee/blob/employee-graphql/README.md
-Reactive https://github.com/athishsreeram/employee/blob/employee-reactive/README.md
-Spring Cache https://github.com/athishsreeram/employee/blob/employee-cache/README.md</description>
+      <guid>http://examplesite.org/blog/post-1/</guid>
+      <description>To Manage Visa Preparation, Application and Settlement Program</description>
     </item>
     
   </channel>
